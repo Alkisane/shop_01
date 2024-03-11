@@ -1,0 +1,29 @@
+body {
+    background-color: #171211;
+    color: #FFE5E5;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+.nav {
+    text-align: right;
+    margin-right: 20px;
+    padding-top: 35px;
+    padding-bottom: 15px;
+}
+
+.menu {
+    list-style-type: none;
+    display: inline-block;
+    margin-right: 55px;
+}
+
+.menu_link {
+    text-decoration: none;
+    color: #FFE5E5;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
