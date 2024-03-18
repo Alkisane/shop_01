@@ -22,8 +22,10 @@ body {
 
 .menu_link {
     text-decoration: none;
-    color: #FFE5E5;
+    color: cornflowerblue;
     font-family: "Roboto", sans-serif;
     font-weight: 400;
     font-style: normal;
+    font-size: 16px;
+    line-height: 36px;
 }
