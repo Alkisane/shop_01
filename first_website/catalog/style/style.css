@@ -1,10 +1,5 @@
 body {
-    background-color: #171211;
-    color: #FFE5E5;
-    font-family: "Roboto", sans-serif;
-    font-weight: 400;
-    font-style: normal;
-
+ 
 }
 
 
@@ -29,7 +24,12 @@ body {
     font-style: normal;
 }
 
-
+.cataloge{
+   color: #222;
+   font-size: 28px;
+   line-height: 36px;
+   font-weight: bold;
+}
 
 .first_product {
     width: 470px;
